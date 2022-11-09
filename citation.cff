@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: My test software
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jürgen
+    family-names: Rohrwild
+    email: juergen.rohrwild@fau.de
+    affiliation: >-
+      Friedrich-Alexander-Universität
+      Erlangen-Nürnberg
+    orcid: 'https://orcid.org/0000-0002-1167-0339'
+abstract: >-
+  This is a short, but very informative abstract. It
+  describes what the software does and where it can
+  be used to great effect. 
+keywords:
+  - data management
+  - git
+license: Apache-2.0
+commit: Number
+version: '1.0'
+date-released: '2022-11-09'
